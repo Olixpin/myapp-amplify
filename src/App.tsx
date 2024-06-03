@@ -14,7 +14,6 @@ function App() {
         <NavBarHeader2/>
         <HeroLayout1/>
         <MarketingPricing/>
-        <Features2x2/>
         <CTASection/>
         <MarketingFooter/>
     </>
